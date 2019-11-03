@@ -7,11 +7,9 @@
 
 > Welcome! I’m Hugo and I’m a web developer normally. I will use this repository as a blog and personal site, here I will publish some tips and tricks that I learned throughout my career I hope they are of your help.
 
-### 🏠 [Homepage](hangouh)
-
 ## Author
 
-👤 **Hugo Hernández Valdez (HanGouh)**
+😬 **Hugo Hernández Valdez (HanGouh)**
 
 * Website: https://gouh.github.io/material-resume/
 * Twitter: [@hangouh](https://twitter.com/hangouh)
